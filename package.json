@@ -1,8 +1,8 @@
 {
   "name": "fitfilefun",
   "displayName": "fitfilefun",
-  "description": "Open .FIT files with CRUX.",
-  "version": "0.0.3",
+  "description": "Open .fit files with Wahoo's crFitTool.",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.76.0"
   },
