@@ -35,8 +35,8 @@ export function activate(context: vscode.ExtensionContext) {
 
 			const terminal = vscode.window.createTerminal();
 			terminal.sendText(command);
-			//terminal.sendText(`exit`);
-			terminal.show();
+			terminal.sendText(`exit`);
+			// terminal.show();
 			await new Promise(resolve => setTimeout(resolve, 2000));
 
 			// Open the generated CSV file in a new editor tab

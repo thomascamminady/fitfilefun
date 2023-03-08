@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "publisher": "ThomasCamminady",
   "repository": {
     "type": "git",
     "url": "https://github.com/thomascamminady/fitfilefun.git"
