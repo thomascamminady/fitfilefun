@@ -1,3 +1,5 @@
+## ONLY WORKS FOR WAHOO FITNESS EMPLOYEES
+
 # fitfilefun README
 
 Set the path to `crux` inside the settings under `Fitfilefun: Fit Tool Path`. 
